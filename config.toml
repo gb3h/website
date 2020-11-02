@@ -1,5 +1,5 @@
 title = "Gabriel Yeo"
-baseURL = "https://gabrielyeo.com/about"
+baseURL = "https://gabrielyeo.com"
 languageCode = "en-us"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]

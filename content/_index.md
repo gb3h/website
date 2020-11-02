@@ -1,1 +1,1 @@
-/content/about.md
+about.md

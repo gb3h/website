@@ -1,5 +1,5 @@
 title = "Gabriel Yeo"
-baseURL = "https://gb3h.github.io"
+baseURL = "https://gabrielyeo.com/about"
 languageCode = "en-us"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
